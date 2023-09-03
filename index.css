@@ -177,13 +177,13 @@ video{
 
 }
 #card1{
-    background-image:url(img/bb.jpeg);
+    background-image:url(bb.jpeg);
 }
 #card2{
-    background-image:url(img/dk.jpeg);
+    background-image:url(dk.jpeg);
 }
 #card3{
-    background-image:url(img/dkr.jpeg);
+    background-image:url(dkr.jpeg);
 }
 .overlay{
     height: 100%;
